@@ -48,7 +48,7 @@ I enjoy building practical projects that solve real-world problems.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add your LinkedIn URL here)
+- LinkedIn: https://www.linkedin.com/in/ashwin-kuppuraj-a04561293/
 
 ---
 
