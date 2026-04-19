@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I build event-driven cloud systems and automation pipelines using AWS.  
 Currently focused on strengthening my foundations in Cloud Architecture, Software Development, and Data Structures.
@@ -15,7 +15,7 @@ I enjoy building practical projects that solve real-world problems.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Cloud:** AWS (S3, Lambda, DynamoDB, SNS, CloudWatch)  
 **Languages:** Python, C++, Java  
@@ -24,7 +24,7 @@ I enjoy building practical projects that solve real-world problems.
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 - **AWS Serverless CSV Processing Pipeline**  
   Event-driven automation pipeline using S3, Lambda, DynamoDB and SNS.
@@ -37,7 +37,7 @@ I enjoy building practical projects that solve real-world problems.
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - Advanced AWS Architecture
 - CI/CD Pipelines
@@ -46,7 +46,7 @@ I enjoy building practical projects that solve real-world problems.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/ashwin-kuppuraj-a04561293/
 
