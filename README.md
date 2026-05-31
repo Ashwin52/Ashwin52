@@ -1,4 +1,4 @@
-# Hi, I'm Ashwin 👋
+# Hi, I'm Ashwin 
 
 🎓 Electronics & Communication Engineering Student  
 ☁️ Aspiring Cloud & Software Engineer  
