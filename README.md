@@ -1,74 +1,118 @@
-# Hi, I'm Ashwin 
+# Hi, I'm Ashwin Kuppuraj 
 
-🎓 Electronics & Communication Engineering Student
-
-☁️ Aspiring Cloud & Software Engineer
-
+🎓 Electronics & Communication Engineering @ Rajalakshmi Institute of Technology, Chennai  
+☁️ Aspiring Network & Cloud Engineer  
+🔭 Building SDN systems, cloud-native applications, and network automation pipelines  
 📍 Chennai, India
 
 ---
 
 ## About Me
 
-I build event-driven cloud systems and automation pipelines using AWS.
-Currently focused on strengthening my foundations in Cloud Architecture, Software Development, and Data Structures.
-I enjoy building practical projects that solve real-world problems.
+I build event-driven cloud systems, SDN-based network architectures, and automation pipelines using Python, AWS, and Terraform.  
+Focused on **Network Engineering**, **Cloud Architecture**, and **Backend Development**.  
+I enjoy solving real-world infrastructure problems through practical, scalable engineering.
 
 ---
 
 ## Tech Stack
 
-**Cloud:** AWS (S3, Lambda, DynamoDB, SNS, SQS, CloudWatch, ECS Fargate, API Gateway, CloudFront, ALB)
-
-**Languages:** Python, C++, Java
-
-**IaC & DevOps:** Terraform, GitHub Actions, Docker
-
-**Tools:** Git, Linux, VS Code
-
-**Databases:** DynamoDB, MySQL, Athena
+| Area | Tools |
+|---|---|
+|  Networking | TCP/IP, OSI Model, IPv4, Subnetting, Routing, Switching, ARP, DNS, DHCP, SSH, SDN, OpenFlow |
+|  Cloud | AWS (S3, Lambda, DynamoDB, SQS, API Gateway, CloudFront, ECS Fargate, ALB, CloudWatch), Azure |
+|  Languages | Python (Scapy, Network Automation), C, Java, SQL, Bash |
+|  Linux / Unix | Ubuntu, SSH, Networking Commands, File System, Process Management |
+|  IaC & DevOps | Terraform, GitHub Actions, Docker, CI/CD |
+|  Tools | Mininet, POX Controller, Git, VS Code, Arduino IDE, MQTT |
+|  Databases | DynamoDB, MySQL, Athena |
 
 ---
 
 ## Featured Projects
 
-### URL Shortener with Real-time Analytics
-- Built a serverless URL shortener using Base62 encoding with collision-safe writes via DynamoDB conditional expressions
-- Applied cache-aside pattern with DynamoDB TTL to reduce redundant database reads for high-frequency URLs
-- Designed async analytics pipeline where click events flow through SQS → Lambda → S3 → Athena for serverless reporting
-- Deployed via Lambda + API Gateway with CloudFront CDN achieving sub-10ms redirect latency globally
+### AI-Driven SDN Framework for 5G Network Slicing & Traffic Engineering
+> `Python` `Mininet` `POX Controller` `OpenFlow` `Scapy` `Machine Learning`
 
-### Production-grade App Deployment Platform
-- Built a self-service deployment platform where a GitHub push automatically containerizes and deploys the app to ECS Fargate
-- Provisioned entire infrastructure — VPC, subnets, IAM, ECS, ALB — as reusable Terraform modules
-- Implemented blue-green deployment with ALB weighted routing for zero-downtime releases
-- Reduced deployment time from 30 minutes to under 2 minutes via full CI/CD automation using GitHub Actions
+- Designed and simulated an SDN-based 5G network topology using Mininet and POX Controller with OpenFlow protocol
+- Implemented network slicing to isolate and manage traffic flows across virtual network segments
+- Built a Python-based real-time traffic engineering and anomaly detection pipeline using Scapy for packet analysis
+- Automated network mitigation responses and monitored performance metrics via real-time dashboards
+
+---
+
+### LoRa & ESP32 Long-Range IoT Telemetry System
+> `ESP32` `LoRa` `MQTT` `Python` `Flask`
+
+- Implemented a long-range IoT telemetry system using ESP32 and LoRa modules with RSSI-based link performance evaluation
+- Configured MQTT protocol for reliable sensor data transmission; built a Flask backend for real-time data visualization
+
+---
+
+### URL Shortener with Real-Time Analytics
+> `AWS Lambda` `API Gateway` `DynamoDB` `SQS` `S3` `Athena` `CloudFront`
+
+- Built a serverless URL shortener using Base62 encoding with collision-safe DynamoDB writes and TTL-based caching
+- Designed async analytics pipeline: `SQS → Lambda → S3 → Athena` for serverless click tracking and reporting
+- Deployed via API Gateway and CloudFront for low-latency global redirects
+
+---
+
+### Production-Grade App Deployment Platform
+> `ECS Fargate` `ALB` `Terraform` `GitHub Actions` `Docker` `VPC` `IAM`
+
+- Built a CI/CD platform that auto-containerizes apps and deploys to ECS Fargate on every GitHub push
+- Provisioned VPC, subnets, IAM, ECS, and ALB as reusable Terraform modules
+- Implemented blue-green deployment with ALB weighted routing — reduced deployment time from **30 min → under 2 min**
+
+---
 
 ### Event-Driven Serverless Data Pipeline
-- Architected a serverless pipeline where S3 uploads trigger Lambda functions for automated downstream data processing
-- Provisioned and managed cloud infrastructure using Terraform for reproducible, version-controlled deployments
-- Implemented CI/CD automation via GitHub Actions enabling consistent and seamless deployment workflows
-- Monitored system performance using CloudWatch with scoped IAM roles for least-privilege access control
+> `S3` `Lambda` `Terraform` `GitHub Actions` `CloudWatch` `IAM`
 
-### Credit Card Fraud Detection
-- Machine learning model to detect fraudulent transactions
+- Architected a serverless pipeline where S3 upload events trigger Lambda for automated downstream processing
+- Configured CloudWatch monitoring and scoped IAM roles for least-privilege access control
 
-### Resume Screening System
-- NLP-based resume classification using cosine similarity
+---
+
+### Street Light Fault Detection & Alert System
+> `ESP32` `MQTT` `Embedded C` `Python`
+
+- Developed a real-time fault detection system for street lighting using ESP32 and MQTT-based alerts
+-  **1st Runner-Up — EDII-TN State Hackathon** (Top 20 Innovative Ideas 2023–24), Govt. of Tamil Nadu
 
 ---
 
 ## Currently Learning
 
-- Advanced AWS Architecture
-- CI/CD Pipelines
-- Terraform (Infrastructure as Code)
-- System Design Fundamentals
+-  Network Engineering — IP Tables, Routing Protocols (OSPF, BGP), Packet Analysis (Wireshark)
+-  Linux Networking — Bash scripting, iptables, tcpdump, netstat
+-  Python Network Automation — Paramiko, Netmiko, Socket Programming
+-  Advanced AWS Architecture & System Design
+
+---
+
+## Achievements
+
+-  **1st Runner-Up** — EDII-TN State Hackathon (Top 20 Innovative Ideas 2023–24), Govt. of Tamil Nadu
+
+---
+
+## Certifications
+
+-  AWS Cloud Solutions Architecture  
+-  Machine Learning Using Python  
+-  Database Management System — Infosys  
+-  OOPs Using Python — Infosys  
+-  Software Engineering & Agile Development — Infosys
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ashwin-kuppuraj-a04561293/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin%20Kuppuraj-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwin-kuppuraj-a04561293/)
+[![Email](https://img.shields.io/badge/Email-ashwin2005aks%40gmail.com-red?style=flat&logo=gmail)](mailto:ashwin2005aks@gmail.com)
 
 ---
+
+*"Build things. Break things. Learn from both."*
