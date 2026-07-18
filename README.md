@@ -115,4 +115,3 @@ I enjoy solving real-world infrastructure problems through practical, scalable e
 
 ---
 
-*"Build things. Break things. Learn from both."*
